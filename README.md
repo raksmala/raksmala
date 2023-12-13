@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Rendy Aksmala
 
 I'm a passionate backend developer with expertise in PHP and JavaScript. Currently, I'm working at [Fresh Forces - Born Digital](https://freshforces.com/), which was acquired by [Frisse Blikken](https://frisseblikken.com/), as a Backend Developer.
 
