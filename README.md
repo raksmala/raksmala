@@ -20,7 +20,7 @@ I'm a passionate backend developer with expertise in PHP and JavaScript. Current
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/raksmala/)
-- [Twitter](https://www.instagram.com/raksmala/)
+- [Instagram](https://www.instagram.com/raksmala/)
 
 ## 📈 GitHub Stats
 
