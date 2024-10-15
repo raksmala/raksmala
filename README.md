@@ -27,3 +27,7 @@ I'm a passionate backend developer with expertise in PHP and JavaScript. Current
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=raksmala&show_icons=true&theme=radical)](https://github.com/raksmala)
 
 Feel free to explore my repositories and don't hesitate to reach out! Let's collaborate and build something amazing together.
+
+## DevCard
+
+<a href="https://app.daily.dev/raksmala"><img src="https://api.daily.dev/devcards/v2/MFIs9JSOOHTtmK0kJX7yi.png?type=wide&r=48z" width="652" alt="Rendy Aksmala's Dev Card"/></a>
